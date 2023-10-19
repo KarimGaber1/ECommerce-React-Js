@@ -1,4 +1,4 @@
-# The text below concerns a live demo of an e-commerce website built with React
+# live demo of an e-commerce website built with React
 
 https://ecommerce-demo-live.netlify.app/
 
