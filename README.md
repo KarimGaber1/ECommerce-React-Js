@@ -1,3 +1,6 @@
+#The text below concerns a live demo of an e-commerce website built with React.
+https://ecommerce-demo-live.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
